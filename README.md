@@ -1,6 +1,6 @@
 # Flutter Flags App
 
-A small educational practice application built in Flutter to help users explore world geography by learning flag names and testing their knowledge through a dedicated quiz interface.
+An educational practice application built in Flutter to help users explore world geography by learning flag names and testing their knowledge through a dedicated quiz interface.
 
 ## Project Features
 * **Flag Names Guide:** A focused module (`FlagsNames.dart`) dedicated to displaying countries along with their corresponding national flags.
